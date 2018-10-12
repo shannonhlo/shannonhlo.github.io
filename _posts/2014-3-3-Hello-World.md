@@ -9,5 +9,7 @@ Next you can update your site name, avatar and other options using the _config.y
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
+![Sunset](https://github.com/shannonhlo/shannonhlo.github.io/blob/master/_posts/IMG_20180717_210030.jpg?raw=true)
+
 
 *Test text*
