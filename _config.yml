@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 locale                   : "en-CA"
 title                    : "Domenic Fayad"
 title_separator          : "-"
-subtitle                 : # Data Analyst
+subtitle                 :  Data Analyst
 name                     : "Domenic Fayad"
-description              : # "Data, sports and family (probably not in that order). Oh, and sour-beer."
+description              : "Data, sports and family (probably not in that order). Oh, and sour-beer."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dmf95/dmf95.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
