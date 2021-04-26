@@ -20,7 +20,7 @@ title                    : "Domenic Fayad"
 title_separator          : "-"
 subtitle                 : Data Analyst # site tagline that appears below site title in masthead
 name                     : "Domenic Fayad"
-description              : #"Data Analyst"
+description              : Personal blog and site. The subject of my posts include but are not limited to data science, data analytics, programming, sports cards investing and sports cards analytics. The site is powered by Jekyll and served through Github.
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dmf95/dmf95.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -146,6 +146,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
