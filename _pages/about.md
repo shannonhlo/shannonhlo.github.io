@@ -11,4 +11,9 @@ In my four years as a data professional, I have been a **data translator** who t
 
 Outside of work, I am active in the local data community as an avid participant in local meet ups and hackathons/datathons like those hosted by [Data for Good](https://dataforgood.ca/) and [hackseq](https://www.hackseq.com/).
 
-When I'm not geeking out about data, you can usually find me hiking, snowshoeing, or camping! I also volunteer at a local Army Cadet unit ([2381 RCACC](https://2381armycadets.com/)), providing mentorship and guidance to help senior cadets grow their leadership and instructional abilities.
+When I'm not geeking out about data, you can usually find me hiking, snowshoeing, or camping. I also volunteer at a local Army Cadet unit ([2381 RCACC](https://2381armycadets.com/)), providing mentorship and guidance to help senior cadets grow their leadership and instructional abilities.
+
+| ![Joffre Lakes 2019](..\assets\images\about-me-photo.jpg) |
+|:--:| 
+| *This is one of my favourite photos of my outdoor adventures (well... technically two), taken just two months apart!* |
+|:--:| 
