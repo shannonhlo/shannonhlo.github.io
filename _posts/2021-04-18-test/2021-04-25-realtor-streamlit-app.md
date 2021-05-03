@@ -31,7 +31,7 @@ Renters aren't so lucky either. The median rent per month for a 1-bedroom apartm
 
 ## Building an app to analyze real-estate listings
 
-As my partner and I started browing around for 2-bedroom apartments, we kept wondering what "good" looked like. After talking to a few of our friends looking for homes in the GVA, we quickly found out that good real-estate insights were few and far between. 
+As my partner and I started browsing around for 2-bedroom apartments, we kept wondering what "good" looked like. After talking to a few of our friends looking for homes in the GVA, we quickly found out that good real-estate insights were few and far between. 
 
 This was enough to convince my good friend and data wizard [Shannon Lo](https://shannonhlo.github.io/) to collaborate with me on diving deeper into the issue. Using the dark arts of analysis, we decided to build a simple analytics application.
 
