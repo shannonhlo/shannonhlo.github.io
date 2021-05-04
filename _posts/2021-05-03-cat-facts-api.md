@@ -3,12 +3,12 @@ layout: single
 title: "Random Cat Facts: APIs and Automated Emails"
 
 permalink: /projects/:title/
-date: "2021-05-02"
+date: "2021-05-03"
 author_profile: true
 categories:
 - Python
 excerpt: |
-  Check out my first Python project which was started because of my love for cats 🐱
+  Check out how I've been sending myself random cat facts every day since learning about APIs in 2019 🐱
 ---
 
 In this inaugural post, I'd like to share a project from 2019 - my first Python project which was started because of my love for cats! I was inspired after attending a lunch and learn about APIs at work.
