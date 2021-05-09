@@ -7,6 +7,7 @@ date: "2021-05-03"
 author_profile: true
 categories:
 - Python
+- Automation
 excerpt: |
   Check out how I've been sending myself random cat facts every day since learning about APIs in 2019 🐱
 ---
