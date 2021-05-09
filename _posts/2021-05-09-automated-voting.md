@@ -12,9 +12,9 @@ excerpt: |
   Read about how I used Selenium to vote for my favourite Korean drama last year 📺
 ---
 
-I was looking for a mundane task to try automating after reading Al Sweigart's book, [*Automate the Boring Stuff with Python*](https://automatetheboringstuff.com/), when I came across this poll for [The Best Korean Drama 2020](https://kingchoice.me/the-best-korean-drama-2020-close-nov-30) and decided to automate the voting process.
+This post is about how I automated the voting process for my favourite Korean drama in this poll on [The Best Korean Drama 2020](https://kingchoice.me/the-best-korean-drama-2020-close-nov-30). At the time, I was looking for a mundane task to try automating after reading Al Sweigart's book, [*Automate the Boring Stuff with Python*](https://automatetheboringstuff.com/).
 
-The plan was to vote for [Hospital Playlist](https://www.netflix.com/ca/title/81239224), a drama about five doctors who are friends from medical school. Perhaps I was particularly biased because they reminded me of myself and four close friends from university!
+The plan was to vote for [Hospital Playlist](https://www.netflix.com/ca/title/81239224), a drama about five doctors who are friends from medical school. Perhaps I was particularly biased because they reminded me of myself and my four close friends from university!
 
 ![HP Poster](..\..\assets\images\2021-05-09-automated-voting\hospital_playlist_poster.jpg)
 
