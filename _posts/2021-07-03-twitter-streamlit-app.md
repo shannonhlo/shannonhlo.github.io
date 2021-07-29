@@ -13,9 +13,9 @@ excerpt: |
   Discover what's possible with text analytics and what's happening on Twitter using this Streamlit app 🐦
 ---
 
-Humans are complex beings. Our feelings are often implied (eg. Great!!!) instead of explicitly stated (eg. I'm excited), not to mention social and cultural nuances like humour and sarcasm. If you've ever been confused and thought "what do they mean?", you know exactly what I mean.
+Humans are complex beings. Our feelings are often implied (e.g. Great!!!) instead of explicitly stated (e.g. I'm excited), not to mention social and cultural nuances like humour and sarcasm. If you've ever been confused and thought "what do they mean?", you know exactly what I mean.
 
-Machines, on the other hand, are structured and methodical. Concepts like sentiment analysis and topic modelling can be used to understand emotions and group a series of texts (ie. Tweets, sentences, stories) into common topics to identify themes. This would be a time-consuming exercise for humans who would need to manually read through all the texts.
+Machines, on the other hand, are structured and methodical. Concepts like sentiment analysis and topic modelling can be used to understand emotions and group a series of texts (i.e. Tweets, sentences, stories) into common topics to identify themes. This would be a time-consuming exercise for humans who would need to manually read through all the texts.
 
 ## Tweet Analyzer App
 Can we understand what people are saying and how they feel about a topic? I explored this question by creating an application using Streamlit with my good friend and full stack analyst, [Domenic Fayad](https://https://www.fullstaxx.com/).
