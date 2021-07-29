@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Shannon Lo"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/shlo_headshot.jpg"
   bio              : "Data & outdoor enthusiast"
   location         : "Vancouver, BC"
   email            : "shannonhlo26@gmail.com"
