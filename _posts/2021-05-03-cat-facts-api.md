@@ -35,7 +35,7 @@ catfacts = requests.get('https://cat-fact.herokuapp.com/facts/random', params = 
 
 Then test the connection by checking the status code.
 * Status code 200: everything is ok
-* Status code  404: page or resource was not found
+* Status code 404: page or resource was not found
 
 ```
 print(catfacts.status_code)
