@@ -10,7 +10,7 @@ categories:
 - GitHub
 - Workshop
 excerpt: |
-  Learn how to keep track of code changes and collaborate with others using GitHub 📑
+  Learn common Git commands through hands-on exercises 📑
 ---
 
 This workshop is part of the [Vancouver DataJam 2021](https://www.vancouverdatajam.ca/#home) event. It will equip participants with the basics of Git, a version control software, and how to collaborate with others on [GitHub](https://github.com/).
