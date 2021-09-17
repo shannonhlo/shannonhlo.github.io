@@ -36,7 +36,7 @@ $ git config --global user.name "Your Name"
 # configure your email displayed in commits
 $ git config --global user.email "youremail@email.com"
 ```
-Note that the username here does not have to correspond with the username that you will set when creating a GitHub account in the next section.
+Note that the username here does not have to correspond with the username that you will set when creating a GitHub account in the next section. More about Git usernames [here](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git).
 
 ## Create a GitHub account
 Go to [https://github.com/](https://github.com/) and enter your email in the white box that says "Email address". This is the email you will use for your GitHub account. Click the green button that says "Sign up for GitHub" to proceed.
@@ -44,4 +44,3 @@ Go to [https://github.com/](https://github.com/) and enter your email in the whi
 
 Follow the prompts to finish creating your account.
 ![GitHub Sign Up](..\..\assets\images\2021-09-12-git-github-workshop1\github-sign-up.png)
-
