@@ -20,6 +20,13 @@ There are three parts:
 * [Part 2](https://shannonhlo.github.io/projects/git-github-workshop2/) introduces the concept of version control, Git, and GitHub
 * [Part 3](https://shannonhlo.github.io/projects/git-github-workshop3/) contains hands-on exercises where participants will create a repository in GitHub, make their first commit, and become familiar with other common Git commands
 
+Links to specific sections:
+* [Create a repository in GitHub](https://shannonhlo.github.io/projects/git-github-workshop3/#create-a-repository-in-github)
+* [Clone a repository](https://shannonhlo.github.io/projects/git-github-workshop3/#clone-a-repository)
+* [Make the first commit](https://shannonhlo.github.io/projects/git-github-workshop3/#make-the-first-commit)
+* [Create a branch](https://shannonhlo.github.io/projects/git-github-workshop3/#create-a-branch)
+* [Merge branches with a pull request](https://shannonhlo.github.io/projects/git-github-workshop3/#merge-branches-with-a-pull-request)
+
 ## Create a repository in GitHub
 Let's start by creating a repository where all the files and folders of your project will be stored.
 
@@ -77,7 +84,7 @@ $ cd <insert file path of local repository here>
 You should now see (main) in blue letters like so:
 ![Clone step 5](..\..\assets\images\2021-09-17-git-github-workshop3\clone4.png)
 
-## Make the first commit with a commit message
+## Make the first commit
 Now let's make our first change by adding a file to the local and remote repositories.
 
 Here is an overview of the process. It's important to note that there are three areas in a local environment:
@@ -179,19 +186,19 @@ Click on the green "Merge pull request" button to merge the two branches.
 To summarize, here are the Git commands that were discussed above:
 ```
 # clone a repository
-git clone <remote repository link>
+$ git clone <remote repository link>
 
-# make a first commit
-git status
-git add <file name>
-git commit -m "describe changes here"
-git push
-git pull
+# make the first commit
+$ git status
+$ git add <file name>
+$ git commit -m "describe changes here"
+$ git push
+$ git pull
 
 # create a branch
-git checkout -b <branch name>
-git push -u origin <branch name>
+$ git checkout -b <branch name>
+$ git push -u origin <branch name>
 
 # switch to another branch
-git checkout <branch name>
+$ git checkout <branch name>
 ```
