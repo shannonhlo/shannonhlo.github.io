@@ -13,7 +13,7 @@ excerpt: |
   Learn how to set up Git and GitHub to prepare for the Vancouver DataJam workshop 📑
 ---
 
-Before participating in the [Vancouver DataJam 2021](https://www.vancouverdatajam.ca/workshops) workshop on Git and GitHub, there is some set up to be done:
+Before participating in the [Vancouver DataJam 2021](https://www.vancouverdatajam.ca/workshops#git-github) workshop on Git and GitHub, there is some set up to be done:
 * Install Git and configure username/email
 * Create a GitHub account
 
@@ -44,3 +44,6 @@ Go to [https://github.com/](https://github.com/) and enter your email in the whi
 
 Follow the prompts to finish creating your account.
 ![GitHub Sign Up](..\..\assets\images\2021-09-12-git-github-workshop1\github-sign-up.png)
+
+
+Now you're ready for [Part 2 of the workshop](https://shannonhlo.github.io/projects/git-github-workshop2/)!
