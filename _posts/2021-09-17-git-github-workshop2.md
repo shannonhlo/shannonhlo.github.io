@@ -39,7 +39,7 @@ Files are stored both locally on the user's computer and remotely in a location 
 
 | ![Local & Remote Repos](..\..\assets\images\2021-09-17-git-github-workshop2\local-remote-repos.png) |
 |:--:| 
-| *[Click here](https://shannonhlo.github.io/assets/images/22021-09-17-git-github-workshop2/local-remote-repos.png) to enlarge the image.* |
+| *[Click here](https://shannonhlo.github.io/assets/images/2021-09-17-git-github-workshop2/local-remote-repos.png) to enlarge the image.* |
 |:--:| 
 
 ### Git terminology
@@ -86,7 +86,7 @@ Note that User2's branch (green) does not contain the changes that User1 made be
 
 | ![Workflow](..\..\assets\images\2021-09-17-git-github-workshop2\git-branches-workflow.png) |
 |:--:| 
-| *[Click here](https://shannonhlo.github.io/assets/images/22021-09-17-git-github-workshop2/git-branches-workflow.png) to enlarge the image.* |
+| *[Click here](https://shannonhlo.github.io/assets/images/2021-09-17-git-github-workshop2/git-branches-workflow.png) to enlarge the image.* |
 |:--:| 
 
 Now you're ready for [Part 3 of the workshop](https://shannonhlo.github.io/projects/git-github-workshop3/)!
